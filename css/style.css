@@ -195,21 +195,35 @@ k{
   background-color: #49860a;
   color: #ffffff;
 }
+.btn-education{
+  background-color: #49860a;
+  color: #fff;
+}
+.education-title{
+  background-color: #49860a;
+  color: #fff!important;
+  align-content: center!important;
+}
 /* anotehr animate */
 .links{
     color:"#2e2d2d!important";
+    /* background-color: #e4e0e0; */
     }
 .new{
   float: left;
   shape-outside: circle(50%);
   width: 200px;
- 
+}
+.save{
+  font-size: 16px;
 }
 .links:hover{
     transform: ease-in-out 3s ;
     border-bottom: #ffffff;
-    text-decoration: underline;
-    color: #000000;
+    text-decoration: none;
+    color: #fff!important;
+    background-color: #118a6f;
+
 
 }
 
